@@ -1,6 +1,6 @@
 # new-test
 
-WE BEIGN HERE
+here
 
 
 # change is here
